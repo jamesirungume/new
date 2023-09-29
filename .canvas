@@ -4,3 +4,5 @@
   :course_id: 6130
   :canvas_url: https://learning.flatironschool.com/courses/6130/pages/deploying-a-flask-api-to-render
   :type: page
+
+export DATABASE_URI=<:postgresql//my_name:A4ca6HLIAz8cNqB0ZIX22KOqiHoG3dM3@dpg-ckb8ucmsmu8c7389m7ng-a.oregon-postgres.render.com/bird_app_v7m2>
